@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#!/home/jaalkab/bin/python
 import codecs
 import os.path
 import re
